@@ -32,11 +32,11 @@
 
 I am a developer person passionate about replicating functional and intuitive user interfaces. Future Software Engineer. Proactive, collaborative, and always looking to improve my skills to deliver results that exceed expectations.
 
-<br>
-<br>
+</br>
+</br>
 
 ### 🖥️ Technology and tools: 
-<img width="250px" align="right" src="assets/img/My_avatar_02.png">
+<img width="200px" align="right" src="assets/img/My_avatar_02.png">
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" height="40px" title="ANGULAR"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40px" title="REACT"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="40px" title="BOOTSTRAP"/>

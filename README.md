@@ -55,7 +55,7 @@ I am a developer person passionate about replicating functional and intuitive us
 
 </br>
 </br>
-<div display="inline-block">
+<div display="block">
  <p align="left">🔭 I’m currently looking for a new job.</p>
  <p align="left">💻 I am currently studying Software Engineering at Unicesusar and also learning Back end with Java and Spring at Oracle Next Education - <a href="https://www.oracle.com/br/education/oracle-next-education/">ONE</a></p>
  <p align="left">📚 I'm currently learning Java and Spring. In my free time I like to learn new languages.</p>

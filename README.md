@@ -26,7 +26,7 @@
 I am a developer person passionate about replicating functional and intuitive user interfaces. Future Software Engineer. Proactive, collaborative, and always looking to improve my skills to deliver results that exceed expectations.
 
 ## 🖥️ Technology and tools:
-<img width="50%" align="right" src="assets/img/My_avatar_02.png">
+<img width="200px" align="right" src="assets/img/My_avatar_02.png">
 
 <div align="left">
   <div>
